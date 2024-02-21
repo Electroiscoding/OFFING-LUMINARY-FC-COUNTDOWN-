@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Arial-bold;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.countdown-container {
+  text-align: center;
+}
+
+#countdown {
+  font-size: 100rem; /* Adjust font size as needed */
+  font-weight: 1000; /* Adjust font weight as needed */
+}￼Enter
